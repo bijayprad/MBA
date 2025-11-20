@@ -24,4 +24,4 @@ Perform t-test for significance of regression coefficient (b)
 Perform F Test (ANOVA Table) for overall model significance
 
 [Submit Assignment II](https://forms.gle/RrWRykV3rrd63hvj7)
-Write you name in the document 
+(Write you name in the document while submitting)
