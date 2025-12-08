@@ -1,3 +1,5 @@
+[Syllabus](https://drive.google.com/file/d/1f4pPUoyzTidLQmtkyOFG4uPgVQQGbK0Z/view?usp=sharing)
+
 [Book Decision Science](https://drive.google.com/file/d/10JvOd2Uz23LaUxkDc29ZTD6-aING3UMC/view?usp=drive_link)
 
 Slides:
