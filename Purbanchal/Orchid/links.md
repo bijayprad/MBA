@@ -38,6 +38,6 @@ Assignments
 [SPSS](https://docs.google.com/document/d/e/2PACX-1vQT68JJAOh1uOyiaOzBKucrW3C_j6VIDXaycjmPbRP41H0QNcviE-KNyfQltwIZabZlH5UoIEUfur2Z/pub)
                     
                   
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTNb43YYatRG39PU9qUuOm0UkipT_YvC8TmYvjaYnuRSr3tSd_9snNyr6N8aZPc9J7zcYOh4f3eVJBk/pubhtml">
-                  [Attendance]
+[Attendance](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNb43YYatRG39PU9qUuOm0UkipT_YvC8TmYvjaYnuRSr3tSd_9snNyr6N8aZPc9J7zcYOh4f3eVJBk/pubhtml)
+                  
                
